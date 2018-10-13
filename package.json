@@ -1,0 +1,24 @@
+{
+  "name": "zendesign",
+  "version": "1.0.0",
+  "description": "Creating 2nd Site from Design",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekirshala/zdesign.git"
+  },
+  "author": "Bekir Shala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekirshala/zdesign/issues"
+  },
+  "homepage": "https://github.com/bekirshala/zdesign#readme"
+}
